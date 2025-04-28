@@ -1,4 +1,4 @@
 matplotlib
 plotly
 openpyxl
-sklearn
+scikit-learn
